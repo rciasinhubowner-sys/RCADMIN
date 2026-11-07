@@ -35,7 +35,7 @@ from telegram.ext import (
 )
 
 load_dotenv()
-TOKEN = os.getenv("BOT_TOKEN") or "8895394574:AAHidk1gLFp4y8Q089rlxKDwZoJvxoMswqE"  # পরে এখান থেকে সরিয়ে .env ব্যবহার করুন
+TOKEN = os.getenv("BOT_TOKEN") or "9221033214:AAEOozXn9mNaVOubl-GY3lqUDZTRtf1-tmA"  # পরে এখান থেকে সরিয়ে .env ব্যবহার করুন
 
 logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(message)s", level=logging.INFO
